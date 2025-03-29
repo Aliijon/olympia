@@ -1,0 +1,93 @@
+name: IMG-20241112-WA0000
+previous-price: 499
+current-price: 399
+catagory: نیکر - شورت
+description:  
+
+
+name: IMG-20241112-WA0017
+previous-price: ۶۴۹
+current-price: ۵۴۹
+catagory: نیکر - شورت
+description: 
+
+
+name: IMG-20241112-WA0022
+previous-price: ۶۴۹
+current-price: ۵۴۹
+catagory: نیکر - شورت
+description: 
+
+
+
+name: IMG-20250215-WA0009
+previous-price: ۷۹۹
+current-price: ۶۴۹
+catagory: نیکر - شورت
+description: 
+
+
+name: IMG-20250223-WA0003
+previous-price: ۶۴۹
+current-price: ۵۴۹
+catagory: نیکر - شورت
+description: 
+
+name: IMG-20250223-WA0016
+previous-price: ۶۴۹
+current-price: ۵۴۹
+catagory: نیکر - شورت
+description: 
+
+
+name: IMG-20250223-WA0020
+previous-price: ۶۴۹
+current-price: ۵۴۹
+catagory: نیکر - شورت
+description: 
+
+name: IMG-20250305-WA0003
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیکر - شورت
+description:  
+
+
+name: IMG-20250315-WA0000
+previous-price: ۶۴۹
+current-price: ۵۴۹
+catagory: نیکر - شورت
+description: 
+
+
+name: IMG-20250315-WA0001
+previous-price: ۶۴۹
+current-price: ۵۴۹
+catagory: نیکر - شورت
+description: 
+
+
+
+name: IMG-20250315-WA0008
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیکر - شورت
+description:  
+
+
+name: IMG-20250315-WA0009
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیکر - شورت
+description:  
+
+
+
+name: IMG-20250315-WA0010
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیکر - شورت
+description:  
+
+
+

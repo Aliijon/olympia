@@ -1,0 +1,143 @@
+name: IMG-20241118-WA0016
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250121-WA0003
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250121-WA0004
+previous-price: ۴۴۹
+current-price: ۳۹۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250121-WA0019
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250129-WA0013
+previous-price: ۵۴۹
+current-price: ۳۹۹
+catagory: نیمه برزو
+description: 
+
+name: IMG-20250201-WA0004
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250215-WA0006
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250215-WA0008
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250215-WA0017
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250215-WA0021
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+
+name: IMG-20250215-WA0023
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+
+name: IMG-20250215-WA0026
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250223-WA0014
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250305-WA0000
+previous-price: ۴۹۹
+current-price: ۳۹۹
+catagory: نیمه برزو
+description: 
+
+
+
+name: IMG-20250305-WA0002
+previous-price: ۶۴۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250315-WA0011
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+
+name: IMG-20250315-WA0012
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250315-WA0013
+previous-price: ۶۴۹
+current-price: ۴۴۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250315-WA0015
+previous-price: ۶۴۹
+current-price: ۵۴۹
+catagory: نیمه برزو
+description: 
+
+
+name: IMG-20250315-WA0016
+previous-price: ۶۴۹
+current-price: ۵۴۹
+catagory: نیمه برزو
+description: 
+
+

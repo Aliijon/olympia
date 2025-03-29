@@ -1,0 +1,36 @@
+name: IMG-20250129-WA0007
+previous-price: ۱۲۹۹
+current-price: ۹۹۹
+catagory: بلوز برزو
+description: 
+
+name: IMG-20250215-WA0010
+previous-price: ۱۸۹۹
+current-price: ۱۱۹۹
+catagory: بلوز برزو
+description: 
+
+name: IMG-20250215-WA0013
+previous-price: ۱۸۹۹
+current-price: ۱۱۹۹
+catagory: بلوز برزو
+description: 
+
+name: IMG-20250215-WA0020
+previous-price: ۱۲۹۹
+current-price: ۹۹۹
+catagory: بلوز برزو
+description: 
+
+
+name: IMG-20250215-WA0025
+previous-price: ۱۴۹۹
+current-price: ۱۱۴۹
+catagory: بلوز برزو
+description: 
+
+name: IMG-20250215-WA0027
+previous-price: ۱۷۹۹
+current-price: ۱۱۹۹
+catagory: بلوز برزو
+description: 

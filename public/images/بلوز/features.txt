@@ -1,0 +1,179 @@
+name: IMG-20241112-WA0010
+previous-price: ۶۵۹
+current-price: ۴۴۹
+catagory: بلوز
+description: 
+
+name: IMG-20250215-WA0005
+previous-price: ۶۹۹
+current-price: ۴۹۹ 
+catagory: بلوز
+description: 
+
+name: IMG-20241204-WA0007
+previous-price:۷۴۹
+current-price: ۴۹۹ 
+catagory: بلوز
+description: 
+
+name: IMG-20250215-WA0011
+previous-price: ۸۴۹
+current-price: ۶۹۹ 
+catagory: بلوز
+description: 
+
+name: IMG-20250215-WA0014
+previous-price: ۸۴۹
+current-price: ۶۴۹ 
+catagory: بلوز
+description: 
+
+name: IMG-20250215-WA0015
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: بلوز
+description: 
+
+
+
+
+name: IMG-20250215-WA0022
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: بلوز
+description: 
+
+
+name: IMG-20250223-WA0000 
+previous-price: ۵۹۹
+current-price: ۴۴۹
+catagory: بلوز
+description: 
+
+
+
+name: IMG-20250305-WA0004
+previous-price: ۵۹۹
+current-price: ۴۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0005
+previous-price: ۵۹۹
+current-price: ۴۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0006
+previous-price: ۸۹۹
+current-price: ۷۴۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0007
+previous-price: ۷۴۹
+current-price: ۵۹۹ 
+catagory: بلوز
+description: 
+
+
+name: IMG-20250305-WA0008
+previous-price: ۸۴۹
+current-price: ۶۴۹ 
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0010
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0009
+previous-price: ۸۹۹
+current-price: ۷۴۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0011
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0014
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0015
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0016
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+
+name: IMG-20250305-WA0022
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0023
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0024
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0025
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+
+name: IMG-20250305-WA0026
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250305-WA0027
+previous-price: ۷۴۹
+current-price: ۵۹۹
+catagory: بلوز
+description: 
+
+name: IMG-20250315-WA0014
+previous-price: ۷۴۹
+current-price: ۵۹۹ 
+catagory: بلوز
+description: 
+
+name: IMG-20250315-WA0017
+previous-price: ۷۴۹
+current-price: ۵۹۹ 
+catagory: بلوز
+description: 
+
+
+name: IMG-20250315-WA0017
+previous-price: ۸۴۹
+current-price: ۶۴۹ 
+catagory: بلوز
+description: 
+
+
