@@ -6,6 +6,7 @@ import { Product } from '@/types/product';
 import ShareButtons from './ShareButtons';
 import ImageModal from './ImageModal';
 import { FaSearch } from 'react-icons/fa';
+import Image from 'next/image';
 
 interface ProductCardProps {
   product: Product;
@@ -22,10 +23,13 @@ export default function ProductCard({ product }: ProductCardProps) {
         className="relative w-full h-64 cursor-pointer group"
         onClick={() => setIsModalOpen(true)}
       >
-        <img
+        <Image
           src={product.image}
           alt={product.name}
-          className="w-full h-full object-cover"
+          fill
+          className="object-cover"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          priority={false}
         />
         {/* Zoom indicator */}
         <div className="absolute inset-0 bg-black/20 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300">

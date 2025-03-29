@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { useLanguage } from '@/context/LanguageContext';
 import { FaShoppingCart, FaStar, FaTruck, FaHeadset } from 'react-icons/fa';
 
@@ -27,11 +28,16 @@ export default function Home() {
           <div className="absolute inset-0 bg-black/75 z-10" />
           
           {/* Background image */}
-          <img
-            src="/images/background.webp"
-            alt="Background"
-            className="w-full h-full object-cover"
-          />
+          <div className="relative w-full h-full">
+            <Image
+              src="/images/background.webp"
+              alt="Background"
+              fill
+              className="object-cover"
+              priority
+              quality={85}
+            />
+          </div>
         </div>
 
         {/* Main Content */}
